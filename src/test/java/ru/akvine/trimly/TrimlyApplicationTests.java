@@ -1,0 +1,13 @@
+package ru.akvine.trimly;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class TrimlyApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
